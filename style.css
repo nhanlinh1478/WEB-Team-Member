@@ -1,0 +1,28 @@
+.background{
+    width: auto;
+    height: 600px;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.list-group{
+    width: 400px;
+    border-radius: 10px;
+    display: block; margin-left: auto; margin-right: auto
+}
+.imgmem{
+    width: auto;
+    height: 600px;
+    margin-left: 900px; 
+    margin-right: auto;
+    margin-top: 20px;
+    float: left;
+}
+p{
+    margin-left: 1200px;
+}
